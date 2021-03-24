@@ -29,3 +29,39 @@
 最近GitHub有点卡，如果上不去GitHub，直接找我好了
 
 ## 3.如何使用？
+
+- 方法一：最简单的方法，点了 Star 和 Fork 后直接找我要 (qiuqianaw@163.com)
+
+- 方法二：下载 GitHub Desktop
+
+  ![image-20210324171716350](https://picbedd.oss-cn-beijing.aliyuncs.com/image-20210324171716350.png)
+
+  点击 Add 按钮，选择 Clone a repository，在弹出的页面中选择 URL， 输入本仓库的地址(https://github.com/qiuqianaw/HomeWork)
+
+  ![image-20210324171855637](https://picbedd.oss-cn-beijing.aliyuncs.com/image-20210324171855637.png)
+
+  在Local path 处选择需要保存在自己电脑的路径
+
+  点击 Clone 克隆本仓库
+
+  每次需要获取最新作业时，点击 Fetch origin，直接拉取更新，即可在本地看到最新文件
+
+  ![image-20210324172039188](https://picbedd.oss-cn-beijing.aliyuncs.com/image-20210324172039188.png)
+
+- 方法三：在 Git 中 Clone 仓库到本地文件夹，每次需要更新作业时，直接拉取更新，即可在本地看到最新文件
+
+在自己的电脑任意路径打开 Git ，输入
+
+```git
+git clone https://github.com/qiuqianaw/HomeWork.git
+```
+
+等待下载完成即可
+
+需要更新作业时，在相同的路径下打开 Git ，输入
+
+```git
+git pull origin master
+```
+
+即可在本地看到最新文件
