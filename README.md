@@ -67,3 +67,10 @@ git pull origin master
 ```
 
 即可在本地看到最新文件
+
+
+
+## PS
+
+网络情况不佳时，请前往[备用镜像仓库](http://qiuqian.xyz:3000/qiuqianaw/HW)下载
+
