@@ -30,7 +30,7 @@
 
 ## 3.如何使用？
 
-- 方法一：最简单的方法，点了 Star 和 Fork 后直接找我要 (qiuqianaw@163.com)
+- 方法一：最简单的方法，点了 Star 和 Fork 后直接找我要 (qiuqianaw@163.com) 网络不佳或者不会使用 GitHub 的同学推荐使用这种方法
 
 - 方法二：下载 GitHub Desktop
 
@@ -57,6 +57,8 @@ git clone https://github.com/qiuqianaw/HomeWork.git
 ```
 
 等待下载完成即可
+
+![image-20210324172448223](https://picbedd.oss-cn-beijing.aliyuncs.com/image-20210324172448223.png)
 
 需要更新作业时，在相同的路径下打开 Git ，输入
 
