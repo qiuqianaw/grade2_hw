@@ -1,0 +1,19 @@
+/* * {
+    padding: 0;
+    margin: 0;
+} */
+h1 {
+    color: blue;
+    text-align: center;
+}
+.login {
+    margin: 0 auto;
+    width: 50%;
+}
+.inputBox {
+    text-align: center;
+}
+.btn {
+    text-align: center;
+    margin-top: 5px;
+}

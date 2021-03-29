@@ -1,0 +1,31 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+table, tr, td {
+    border: 1px solid black;
+}
+
+.tb {
+    margin: 0 auto;
+    width: 50%;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+}
+.lk {
+    text-align: right;
+}
+.add {
+    text-align: center;
+    margin-top: 10px;
+}
+.name {
+    white-space: nowrap;
+}
+.title {
+    white-space: nowrap;
+    text-align: center;
+}
